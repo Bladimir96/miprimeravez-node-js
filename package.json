@@ -1,0 +1,17 @@
+{
+  "name": "miprimeravez",
+  "version": "1.0.0",
+  "description": "Mi primera vez con node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.7",
+    "hbs": "^4.1.1"
+  }
+}
